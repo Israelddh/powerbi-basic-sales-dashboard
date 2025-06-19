@@ -2,6 +2,10 @@
 
 This project showcases a business-oriented Power BI dashboard built on a structured dataset of sales transactions. The goal is to simulate a real-world scenario where key performance indicators (KPIs) help decision-makers understand trends, identify high-performing regions and products, and explore business efficiency.
 
+
+![Power BI Sales Dashboard](sales-dashboard-picture.png)
+
+
 ---
 
 ## 🎯 Project Objective
